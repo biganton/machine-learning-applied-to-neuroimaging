@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+
+Lab-1_Intro2NeuroImagingData_Segmentation/subject_*_NIFTI_dir/
+Lab-1_Intro2NeuroImagingData_Segmentation/BIDS-mine/
+Data4Labs/BIDS-dir/derivatives/
+
+Lab-2_Diffusion-Tractography-StructuralNetworks/*.trk
+Lab-2_Diffusion-Tractography-StructuralNetworks/*.nii.gz
+Lab-2_Diffusion-Tractography-StructuralNetworks/*.png

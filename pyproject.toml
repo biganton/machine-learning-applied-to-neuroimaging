@@ -1,0 +1,19 @@
+[project]
+name = "machine-learning-applied-to-neuroimaging"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "bids-validator>=1.14.7.post0",
+    "dicom2nifti>=2.6.2",
+    "dipy>=1.12.1",
+    "fury>=2.0.0",
+    "ipykernel>=7.4.0",
+    "matplotlib>=3.11.2",
+    "nibabel>=5.4.2",
+    "nilearn>=0.14.1",
+    "numpy>=2.5.3",
+    "pydicom>=3.0.2",
+    "scikit-learn>=1.9.1",
+]
